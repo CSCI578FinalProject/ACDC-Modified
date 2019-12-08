@@ -122,10 +122,10 @@ public class ACDC
     }
     
 	inputName = args[0]; 
-    inputName = "C:\\Users\\zhaoq\\Documents\\CS578-arcade\\CS578-arcade\\tomcat\\call_graph_85_no_param_modified.rsf";
+//     inputName = "C:\\Users\\zhaoq\\Documents\\CS578-arcade\\CS578-arcade\\tomcat\\call_graph_85_no_param_modified.rsf";
     outputName = args[1];
-    System.out.println("ddd" + args[1]);
-    outputName = "C:\\Users\\zhaoq\\Documents\\CS578-arcade\\CS578-arcade\\tomcat\\85.rsf";
+//     System.out.println("ddd" + args[1]);
+//     outputName = "C:\\Users\\zhaoq\\Documents\\CS578-arcade\\CS578-arcade\\tomcat\\85.rsf";
  
 	InputHandler input = null;
 	if(inputName.endsWith(".ta") || inputName.endsWith(".rsf"))
